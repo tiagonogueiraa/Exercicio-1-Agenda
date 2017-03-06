@@ -66,7 +66,7 @@ public class InsereContatoServlet extends HttpServlet {
 (Level.ERROR, "Erro ao inserir o registro!" + e);
             
         }
-            response.sendRedirect("lista.html");
+            response.sendRedirect("Lista2.html");
         
        
         
